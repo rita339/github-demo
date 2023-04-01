@@ -15,7 +15,9 @@
 
 ## Bild aus dem Bilderordner hinzufügen
 
-Hier geht es zum Bild ![Image](./bdl-publishing-authoring-rita339/images/logo.png)
+Hier geht es zum Bild [Image Verzeichnis](./bdl-publishing-authoring-rita339/images/logo.png)
+
+![Image](./bdl-publishing-authoring-rita339/images/logo.png)
 
 ## Emoji hinzufügen
 
