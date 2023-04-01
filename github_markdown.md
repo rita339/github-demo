@@ -1,11 +1,11 @@
 # Github Flavored Markdown
 
 ## Externer Link
-- [ ] Externer Link [GitHub Doku](#externen-link-zu-der-github-hinzufügen)
-- [ ] Interner Link [Bilderordner](#einen-link-zum-bilderordner-hinzufügen)
-- [ ] Images [Image](#bild-aus-dem-bilderordner-hinzufügen)
-- [ ] Emojis [Emoji](#emoji-hinzufügen)
-- [ ] Tables [Tabelle](#tabelle-hinzufügen)
+- [x] Externer Link [GitHub Doku](#externen-link-zu-der-github-hinzufügen)
+- [x] Interner Link [Bilderordner](#einen-link-zum-bilderordner-hinzufügen)
+- [x] Images [Image](#bild-aus-dem-bilderordner-hinzufügen)
+- [x] Emojis [Emoji](#emoji-hinzufügen)
+- [x] Tables [Tabelle](#tabelle-hinzufügen)
 
 ## Externen Link zu der GitHub hinzufügen
 [GitHub Doku](https://help.github.com/en)
