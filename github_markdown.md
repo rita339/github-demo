@@ -1,9 +1,9 @@
 # Github Flavored Markdown
 
 ## Externer Link
-- [x] Externer Link 
+- [ ] Externer Link 
 - [ ] Interner Link
-- [x] Images
+- [ ] Images
 - [ ] Emojis
 - [ ] Tables
 
@@ -20,6 +20,14 @@
 ## Emoji hinzufügen
 
 :sleeping: :wink: :joy:
+
+## Tabelle hinzufügen
+
+| Name | Klasse |
+|------|--------|
+| Torben | 7B |
+| Markus | G7 |
+| Fikus  | 3C |
 
 
 
